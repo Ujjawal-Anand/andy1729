@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Angular, GraphQL, TypeScript**
 
-- 👯 I’m looking to collaborate on [Saleor DjnagoInterview](https://github.com/mirumee/saleor)
+- 👯 I’m looking to collaborate on [Saleor](https://github.com/mirumee/saleor)
 
 - 🤝 I’m looking for help with [Django Interview](https://github.com/andy1729/django-interview)
 
