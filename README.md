@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ujjawal Anand</h1>
+<h1 align="center">Hi 👋, I'm Ujjawal</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andy1729" alt="andy1729" /> </p>
