@@ -6,22 +6,6 @@
 ### Skills
 <p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/><img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/><img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="40" height="40"/><img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/><img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/><img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></p><p>&nbsp;
 
-- 🔭 I’m currently working on [RealzHub](https://github.com/andy1729/RealzHub)
-
-- 🌱 I’m currently learning **Angular, GraphQL, TypeScript**
-
-- 👯 I’m looking to collaborate on [Saleor](https://github.com/mirumee/saleor)
-
-- 🤝 I’m looking for help with [Django Interview](https://github.com/andy1729/django-interview)
-
-- 👨‍💻 All of my projects are available at [https://github.com/andy1729](https://github.com/andy1729)
-
-- 📝 I regulary write articles on [https://andy1729.github.com](https://andy1729.github.com)
-
-- 💬 Ask me about **Django, Python**
-
-- 📫 How to reach me **ujjawalanand1729@gmail.com**
-
 - ⚡ Fun fact **Seinfeld over Friends, HIMYM, TBT**
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=andy1729&show_icons=true" alt="andy1729" /></p>
